@@ -1,0 +1,6 @@
+coverage
+fastapi
+pydantic
+requests
+starlette==0.17.1
+uvicorn
