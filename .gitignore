@@ -1,6 +1,6 @@
 # Environments
-.env
 venv/
+app/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
