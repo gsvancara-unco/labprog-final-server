@@ -1,5 +1,5 @@
-BASE_URL = "https://api.nytimes.com/svc/topstories/v2/"
-
+BASE_URL = "https://api.nytimes.com/svc/topstories/v2"
+PAGINATION = 3
 TOPICS = [
     "arts",
     "automobiles",
